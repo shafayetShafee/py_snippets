@@ -3,6 +3,7 @@ A python script contataining a small function to get claims data
 from https://patentsview.org/download/claims by year.
 """
 
+import pandas as pd
 
 def get_patents_view_claims_data(from_year: int, to_year: int) -> pd.DataFrame:
   """
