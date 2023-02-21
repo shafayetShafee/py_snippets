@@ -1,0 +1,1 @@
+`slang.txt` file collected from [here](https://github.com/rishabhverma17/sms_slang_translator/blob/master/slang.txt)
